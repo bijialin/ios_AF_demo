@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48057643-ba3e-4dcc-8fd1-03264212ad6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AF_TEST.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST.xcodeproj/project.xcworkspace/xcuserdata/wzfc-001.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST.xcodeproj/xcuserdata/wzfc-001.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TEST/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TESTTests/AF_TESTTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TESTTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TESTUITests/AF_TESTUITests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AF_TESTUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/HK-MO-TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/areas.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/areas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/cities.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/cities.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pc-code.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pca-code.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pca.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pcas-code.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/pcas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/provinces.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/provinces.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/streets.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/streets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/villages.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/dist/villages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/export_csv.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/export_json.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/crawler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/sqlite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/lib/worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/test/json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Administrative-divisions-of-China-master/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TEST/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TESTTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TESTTests/Map_TESTTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TESTUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Map_TEST/Map_TESTUITests/Map_TESTUITests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NSArray_category/NSArray_category/GoodsConDition.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/TabBarViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/TabBarViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/OneViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/OneViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/firsttab/FirstTabViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/firsttab/FirstTabViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/secondtab/SecondTabViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/secondtab/SecondTabViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/thirdtab/ThirdTabViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/one/thirdtab/ThirdTabViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/three/ThreeViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/three/ThreeViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/two/TwoViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TabChangeTest/TabChangeTest/view/two/TwoViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aip-java-sdk-4.11.0/aip-java-sdk-4.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aip-java-sdk-4.11.0/json-20160810.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aip-java-sdk-4.11.0/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aip-java-sdk-4.11.0/slf4j-simple-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-native-interraction-test/js-native-interraction-test/WKWebViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-native-interraction-test/js-native-interraction-test/WKWebViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js-native-interraction-test/js-native-interraction-test/WebViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sf-print/src/main/java/com/nickbi/sfprint/TestCallWaybillPrinter33.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_80E35626-57DA-4545-A06A-6452880251BD" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1REAekGJ5liIzjjlsRAO82gJErt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="AF_TEST" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AF_TEST" TARGET_NAME="AF_TEST" CONFIG_NAME="Debug" SCHEME_NAME="AF_TEST" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="AF_TEST" RUN_TARGET_NAME="AF_TEST" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48057643-ba3e-4dcc-8fd1-03264212ad6e" name="Default Changelist" comment="" />
+      <created>1569221978139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569221978139</updated>
+      <workItem from="1569221980051" duration="811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
